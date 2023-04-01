@@ -1,0 +1,10 @@
+
+Project Setup
+1. Install Node JS and yarn
+2. Browse to the backend-server folder within Simple-DFS folder
+3. Run "yarn install" to install all the required dependencies
+4. Run "yarn dev" to start the server
+
+5. Browse to frontend-application folder within Simple-DFS folder
+6. Run "yarn install" to install all required dependencies
+7. Run "yarn start" and "yarn start-electron" on seperate terminals to run the frontend application

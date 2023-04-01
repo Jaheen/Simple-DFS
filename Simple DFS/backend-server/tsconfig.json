@@ -1,0 +1,10 @@
+{
+   "exclude": [
+      "tests"
+   ],
+   "compilerOptions": {
+      "removeComments": true,
+      "outDir": "./build/",
+      "rootDir": "./src/"
+   }
+}
